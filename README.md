@@ -1,6 +1,6 @@
 ### Hi there, I'm Olle  👋
 
-## Msc student at Stockholm university & Machine Learning Engineer 🧬
+## Msc Student at Stockholm University - Operations Management & Machine Learning 🧬
 -  Currently working on a ***Machine Learning startup*** in Stockholm called: [dataalliance.io][website].
 -  Coding focus: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the most rewarding. 
 -  2020 Goals: Contribute more to Open Source projects
