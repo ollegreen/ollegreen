@@ -1,7 +1,7 @@
-### Hi there, I'm Olle. 👋
+### Hi there, I'm Olle  👋
 
-## I'm a Msc student at Stockholm university & a huge tech geek. 🧬
--  I’m currently working on a ***Machine Learning startup*** in Stockholm called: [dataalliance.io][website].
+## Msc student at Stockholm university & Machine Learning Engineer 🧬
+-  Currently working on a ***Machine Learning startup*** in Stockholm called: [dataalliance.io][website].
 -  Coding focus: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the most rewarding. 
 -  2020 Goals: Contribute more to Open Source projects
 -  Fun fact: I love to draw and play blues guitar
