@@ -46,6 +46,10 @@
 - [How to make a disappointing gift using Python and a Raspberry Pi.](https://www.youtube.com/watch?v=vmX76sntxe0)
 <!-- YOUTUBE:END -->
 
+<br />
+<br />
+
+
 ---
 
 [website]: https://www.linkedin.com/company/dataalliance-io
