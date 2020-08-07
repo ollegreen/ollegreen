@@ -50,7 +50,6 @@
 ---
 
 <br />
-<br />
 
 [website]: https://www.linkedin.com/company/dataalliance-io
 [twitter]: https://twitter.com/codeSTACKr
