@@ -35,6 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Is the Machine Learning Engineer Nanodegree from Udacity worth it?](https://www.youtube.com/watch?v=PH4cGOIYLHk)
+- [Create Song Lyrics using a Nerual Network (RNN/textgenrnn)](https://www.youtube.com/watch?v=kAAg27SQme4)
+- [News Automation using Robotics and Python](https://www.youtube.com/watch?v=3uDtw1HpFV8)
+- [Where do the most unhappy people on earth live? - Data Visualisation in Tableau](https://www.youtube.com/watch?v=DDMkBXxOHHs)
+- [How to make a disappointing gift using Python and a Raspberry Pi.](https://www.youtube.com/watch?v=vmX76sntxe0)
 <!-- YOUTUBE:END -->
 
 ---
