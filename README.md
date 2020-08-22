@@ -3,7 +3,7 @@
 ## Msc student at Stockholm University - Operations Management & Machine Learning 🧬
 -  Founded and working on a ***Machine Learning startup*** in Stockholm called: [dataalliance.io][website] assisting organisations with how to gain business insights using Machine Learning.
 -  Coding focus: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the most rewarding. 
--  2020 Goals: Contribute more to Open Source projects
+-  2020 Goals: Create projects from everyting you learn. If you learn about OOP, put that into a project makes the learning process more rewarding and easier to remember the different concepts. 
 -  I love to play blues guitar, preferably with a gang of people out in the woods. 
 
 <br />
