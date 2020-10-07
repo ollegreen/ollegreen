@@ -1,7 +1,7 @@
 ## Msc student at Stockholm University - Operations Management & Machine Learning 🧬
 -  Founder of [dataalliance.io][website] where we assist organisations with how to gain business insights using Machine Learning.
 -  **Coding focus**: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the most rewarding. 
--  **Interests**: Play blues guitar, preferably with a gang of people out in the woods. 
+-  **Interests**: Blues Jams, preferably with a gang of people out in the woods. 
 - **Kaggle**: https://www.kaggle.com/ggolle
 
 <br />
