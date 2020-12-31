@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [State of AI Report 2020 - My Main Insights](https://www.youtube.com/watch?v=6g_078JWqP4)
 - [What’s a Tensor? (Machine Learning)](https://www.youtube.com/watch?v=LdYGDZoASFQ)
 - [I wrote a book using AI.](https://www.youtube.com/watch?v=oKh_Jxfeae0)
 - [Creating Music Lyrics with GPT-3 - Will this change the Music Industry?](https://www.youtube.com/watch?v=2khIVv8wNgM)
 - [Using GPT-3 to write Medium Articles](https://www.youtube.com/watch?v=KSj8w1x8ytE)
-- [GPT-3 Example - Cover Letter Generator - inc Model/Code Walkthrough](https://www.youtube.com/watch?v=BmGgd7IXaCQ)
 <!-- YOUTUBE:END -->
 
 ---
