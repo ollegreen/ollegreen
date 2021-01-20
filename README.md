@@ -38,7 +38,7 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to go from Business to Data Science - Guest Lecture (Data Analytics) - Stockholm University](https://www.youtube.com/watch?v=ObQFXny1-r8)
+- [How to go from Business to Data Science - Guest Lecture - Stockholm University](https://www.youtube.com/watch?v=ObQFXny1-r8)
 - [State of AI Report 2020 - My Main Insights](https://www.youtube.com/watch?v=6g_078JWqP4)
 - [What’s a Tensor? (Machine Learning)](https://www.youtube.com/watch?v=LdYGDZoASFQ)
 - [I wrote a book using AI.](https://www.youtube.com/watch?v=oKh_Jxfeae0)
