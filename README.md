@@ -38,11 +38,11 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MacBook Air M1 - Unboxing for Data Science](https://www.youtube.com/watch?v=4YxzES2mwdI)
 - [How to go from Business to Data Science. Master's Lecture. Stockholm University](https://www.youtube.com/watch?v=ObQFXny1-r8)
 - [State of AI Report 2020 - My Main Insights](https://www.youtube.com/watch?v=6g_078JWqP4)
 - [What’s a Tensor? (Machine Learning)](https://www.youtube.com/watch?v=LdYGDZoASFQ)
 - [I wrote a book using AI.](https://www.youtube.com/watch?v=oKh_Jxfeae0)
-- [Creating Music Lyrics with GPT-3 - Will this change the Music Industry?](https://www.youtube.com/watch?v=2khIVv8wNgM)
 <!-- YOUTUBE:END -->
 
 ---
