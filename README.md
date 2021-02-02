@@ -38,7 +38,7 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [MacBook Air M1 for Data Science - Kaggle Competitions & ML Algorithms](https://www.youtube.com/watch?v=Y9pJNGoTg3o)
+- [MacBook Air M1 - Kaggle Competition Notebooks](https://www.youtube.com/watch?v=Y9pJNGoTg3o)
 - [MacBook Air M1 - Essential Data Science Apps Testing](https://www.youtube.com/watch?v=4JErNVGtRN4)
 - [MacBook Air M1 - Unboxing for Data Science](https://www.youtube.com/watch?v=4YxzES2mwdI)
 - [How to go from Business to Data Science. Master's Lecture. Stockholm University](https://www.youtube.com/watch?v=ObQFXny1-r8)
