@@ -38,11 +38,11 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Update - Internship & Writing Msc Thesis](https://www.youtube.com/watch?v=2fUi4VZpCCM)
 - [MacBook Air M1 - Kaggle Competition Notebooks](https://www.youtube.com/watch?v=Y9pJNGoTg3o)
 - [MacBook Air M1 - Essential Data Science Apps Testing](https://www.youtube.com/watch?v=4JErNVGtRN4)
 - [MacBook Air M1 - Unboxing for Data Science](https://www.youtube.com/watch?v=4YxzES2mwdI)
 - [From Business to Data Science - Stockholm University Guest Lecture - Data Analytics & Models](https://www.youtube.com/watch?v=ObQFXny1-r8)
-- [State of AI Report 2020 - My Main Insights](https://www.youtube.com/watch?v=6g_078JWqP4)
 <!-- YOUTUBE:END -->
 
 ---
