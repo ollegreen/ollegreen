@@ -1,4 +1,4 @@
-## Msc student at Stockholm University - Operations Management & Machine Learning
+## Analyst @ Amazon - Demand Forecasting & Machine Learning
 - **Speaker at PyCon Sweden 2020** - Topic: "Walktrough of the worlds most powerful NLP Model: GPT-3".
 - **Guest Lecturer at Stockholm University** in *"Applied Machine Learning in Data Analytics".*
 -  **Founder** of [dataalliance.io][website] assisting organisations to gain business insights using Machine Learning.
