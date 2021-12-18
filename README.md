@@ -1,12 +1,11 @@
 ## Analyst @ Amazon - Demand Forecasting & Machine Learning
 
-**Main focus**: Time series forecasting and clustering algorithms in supply chain management. 
+**Main focus**: Optimisation models for Operations & Supply Chain Management, including Demand Forecasting using time series analysis and clustering algorithms for customer segmentation. Check the "Retail_Demand_Predictions" repo for my earlier work before Amazon, using Walmart sales data. 
 
 - **Guest Lecturer at Stockholm University** in *"Applied Machine Learning in Data Analytics".*
-- **Speaker at PyCon Sweden 2021** - Topic: "Make it Simple - Time series forecasting using Machine Learning".
-- **Speaker at PyCon Sweden 2020** - Topic: "Walktrough of the worlds most powerful NLP Model: GPT-3".
+- **Speaker @ PyCon Sweden 2021** - Topic: "Make it Simple - Time series forecasting using Machine Learning".
+- **Speaker @ PyCon Sweden 2020** - Topic: "Walktrough of the worlds most powerful NLP Model: GPT-3".
 -  **Founder** of [dataalliance.io][website] assisting organisations to gain business insights using Machine Learning.
--  **Coding focus**: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the main focus. Check the "Retail_Demand_Predictions" repo as an example of using Walmart sales data. 
 -  **Interests**: Blues Jams, preferably with a gang of people out in the woods. 
 - **Kaggle**: https://www.kaggle.com/ggolle
 
