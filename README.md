@@ -41,11 +41,11 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day in life of Intern @ Amazon - Business Analyst in London](https://www.youtube.com/watch?v=6gpPiFq6miA)
 - [Interview process for Business Analyst @ Amazon - The #1 most important area to prep](https://www.youtube.com/watch?v=Yw8tLVlKbPA)
 - [Update - Internship &amp; Writing Msc Thesis](https://www.youtube.com/watch?v=2fUi4VZpCCM)
 - [MacBook Air M1 - Kaggle Competition Notebooks](https://www.youtube.com/watch?v=Y9pJNGoTg3o)
 - [MacBook Air M1 - Essential Data Science Apps Testing](https://www.youtube.com/watch?v=4JErNVGtRN4)
-- [MacBook Air M1 - Unboxing for Data Science](https://www.youtube.com/watch?v=4YxzES2mwdI)
 <!-- YOUTUBE:END -->
 
 ---
