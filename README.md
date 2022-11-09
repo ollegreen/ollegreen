@@ -1,4 +1,4 @@
-## Analyst @ Amazon - Demand Forecasting & Machine Learning
+## Data Scientist @ Amazon - Demand Forecasting & Machine Learning
 
 **Main focus**: Optimisation models for Operations & Supply Chain Management, including Demand Forecasting using time series analysis and clustering algorithms for customer segmentation. Check the "Retail_Demand_Predictions" repo for my earlier work before Amazon, using Walmart sales data. 
 
