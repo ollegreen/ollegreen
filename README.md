@@ -1,6 +1,6 @@
 ## Data Scientist @ Amazon - Machine Learning & Engineering
 
-**Main focus**: Optimisation models for Operations & Supply Chain Management, including Demand Forecasting using time series analysis and clustering algorithms for customer segmentation. Check the "Retail_Demand_Predictions" repo for my earlier work before Amazon, using Walmart sales data. 
+**Areas of research**: Applied LLMs in operations, geospatial ETA modeling (think Google Maps when you click "start", that algorithm), demand/time series forecasting and cost optimisation tools.
 
 - **Guest Lecturer at Stockholm University, 2020-Current** in Masters Operations Management program: *"Applied Machine Learning in Data Analytics".*
 - **Speaker @ PyCon Sweden 2021** - Topic: "Make it Simple - Time series forecasting using Machine Learning".
