@@ -2,13 +2,12 @@
 
 **Areas of research**: Applied LLMs in operations, geospatial ETA modeling (think Google Maps when you click "start", that algorithm), demand/time series forecasting and cost optimisation tools.
 
-- **Guest Lecturer at Stockholm University, 2020-Current** in Masters Operations Management program: *"Applied Machine Learning in Data Analytics".*
+- **Guest Lecturer at Stockholm University, 2020-Current** in Masters Operations Management program: *"Methodologies of Applied Science in Operations".*
 - **Speaker @ PyCon Sweden 2021** - Topic: "Make it Simple - Time series forecasting using Machine Learning".
 - **Speaker @ PyCon Sweden 2020** - Topic: "Walktrough of the worlds most powerful NLP Model: GPT-3".
 -  **Founder** of [dataalliance.io][website] assisting organisations to gain business insights using Machine Learning.
 -  **Main Technologies**: Python and SQL.
 -  **Interests**: Blues Jams, preferably with a gang of people out in the woods. 
-- **Kaggle**: https://www.kaggle.com/ggolle
 
 <br />
 
@@ -37,17 +36,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 My Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Day in life of Intern @ Amazon - Business Analyst in London](https://www.youtube.com/watch?v=6gpPiFq6miA)
-- [Interview process for Business Analyst @ Amazon - The #1 most important area to prep](https://www.youtube.com/watch?v=Yw8tLVlKbPA)
-- [Update - Internship &amp; Writing Msc Thesis](https://www.youtube.com/watch?v=2fUi4VZpCCM)
-- [MacBook Air M1 - Kaggle Competition Notebooks](https://www.youtube.com/watch?v=Y9pJNGoTg3o)
-- [MacBook Air M1 - Essential Data Science Apps Testing](https://www.youtube.com/watch?v=4JErNVGtRN4)
-<!-- YOUTUBE:END -->
 
 ---
 
