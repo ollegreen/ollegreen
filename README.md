@@ -6,7 +6,6 @@
 - **Speaker @ PyCon Sweden 2021** - Topic: "Make it Simple - Time series forecasting using Machine Learning".
 - **Speaker @ PyCon Sweden 2020** - Topic: "Walktrough of the worlds most powerful NLP Model: GPT-3".
 -  **Founder** of [dataalliance.io][website] assisting organisations to gain business insights using Machine Learning.
--  **Main Technologies**: Python and SQL.
 -  **Interests**: Blues Jams, preferably with a gang of people out in the woods. 
 
 <br />
