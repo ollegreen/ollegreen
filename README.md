@@ -1,6 +1,8 @@
-## Data Scientist @ Amazon - Machine Learning & Engineering
+## Building AI Agents for Hedge Funds
 
-**Areas of research**: Applied LLMs in operations, geospatial ETA modeling (think Google Maps when you click "start", that algorithm), demand/time series forecasting and cost optimisation tools.
+**Current area of research**: AI Agents for financial reserach and information retrieval.
+
+**Previous area of research at Amazon**: Applied LLMs in operations, geospatial ETA modeling (think Google Maps when you click "start", that algorithm), demand/time series forecasting and cost optimisation tools.
 
 - **Guest Lecturer at Stockholm University, 2020-Current** in Masters Operations Management program: *"Methodologies of Applied Science in Operations".*
 - **Speaker @ PyCon Sweden 2021** - "Make it Simple - Time series forecasting using Machine Learning".
