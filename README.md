@@ -1,6 +1,6 @@
-# 🦊 Agentic commander (as my gf calls me) 
+# Agentic commander (as my gf calls me) 
 
-Building AI Agents for Hedge Funds, and some lovely apps. 
+🦊 Building AI Agents for Hedge Funds, and some lovely apps. 
 
 Sole focus at the moment: `reasoning workflows for financial research`. 
 
