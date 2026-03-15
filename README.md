@@ -1,23 +1,25 @@
-## Building AI Agents for Hedge Funds
+# 🦊 Agentic commander (as my gf calls me) 
 
-**Current area of research**: AI Agents for financial reserach and information retrieval.
+Building AI Agents for Hedge Funds, and some lovely apps. 
 
-**Previous area of research at Amazon**: Applied LLMs in operations, geospatial ETA modeling (think Google Maps when you click "start", that algorithm), demand/time series forecasting and cost optimisation tools.
+Sole focus at the moment: `reasoning workflows for financial research`. 
 
-- **Guest Lecturer at Stockholm University, 2020-Current** in Masters Operations Management program: *"Methodologies of Applied Science in Operations".*
-- **Speaker @ PyCon Sweden 2021** - "Make it Simple - Time series forecasting using Machine Learning".
-- **Speaker @ PyCon Sweden 2020** - "Walktrough of the worlds most powerful NLP Model: GPT-3".
--  **Founder** of [dataalliance.io][website] assisting organisations to gain business insights using Machine Learning.
+before this, was at `Amazon working on applied LLMs, ETA prediction` (basically the brain behind "you'll arrive in 12 min"), demand forecasting, and cost optimisation. good times.
+
+guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science actually works in operations. still going.
+
+did a couple PyCon Sweden talks — one making time series forecasting less painful (2021), another walking through GPT-3 back when that was the wildest thing out (2020).
+
+started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). 
 
 ---
 
 <br />
 
-[website]: https://www.linkedin.com/company/dataalliance-io
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/https://www.youtube.com/user/GreenGh6/videos
-[instagram]: https://www.instagram.com/olleggreen
+[Morphon Labs LinkedIn]: https://www.morphonlabs.com
+[Morphon Labs LinkedIn]: https://www.linkedin.com/company/morphon-labs
 [linkedin]: https://www.linkedin.com/in/ollegreen/
+[youtube]: https://youtube.com/https://www.youtube.com/user/GreenGh6/videos
 [spotifyplaylist]: https://open.spotify.com/playlist/4EV85hewyLVzYsvJhBQWAA?si=zIR1YGDxRiiL6dgjM6tDhQ
 
 <br />
