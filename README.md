@@ -12,8 +12,9 @@ a couple PyCon Sweden talks — one making time series forecasting less painful 
 
 started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). 
 
-Cheers
-/ O
+🦊 Cheers
+
+Olle
 
 ---
 
