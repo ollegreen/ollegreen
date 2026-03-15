@@ -4,13 +4,16 @@
 
 Sole focus at the moment: `reasoning workflows for financial research`. 
 
-before this, was at `Amazon working on applied LLMs, ETA prediction` (basically the brain behind "you'll arrive in 12 min"), demand forecasting, and cost optimisation. good times.
+before this, was at Amazon working on some applied LLMs with agentic achitectures for tools and reasoning, but biggest focus on ETA predictions for transportation networks (geo-graph traversal and quantile transformers for distrubution based forecasting), some demand forecasting, and cost optimisation. good times.
 
-guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science actually works in operations. still going.
+guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science works in operations. still going and find it really lovely.
 
-did a couple PyCon Sweden talks — one making time series forecasting less painful (2021), another walking through GPT-3 back when that was the wildest thing out (2020).
+a couple PyCon Sweden talks — one making time series forecasting less painful (2021), another walking through GPT-3 back when that was the wildest thing out (2020).
 
 started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). 
+
+Cheers
+/ O
 
 ---
 
