@@ -10,7 +10,7 @@ before this, was at Amazon working on some applied LLMs with agentic achitecture
 
 guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science works in operations. still going and find it really lovely.
 
-a couple PyCon Sweden talks — one making time series forecasting less painful (2021), another walking through GPT-3 back when that was the wildest thing out (2020).
+a couple PyCon Sweden talks — walked through GPT-3 research alpha (2020) and one on making time series forecasting less painful (2021).
 
 started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). 
 
