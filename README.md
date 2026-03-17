@@ -1,6 +1,8 @@
-# Agentic commander (as my gf calls me) 
+# agent commander
 
-🦊 Building AI Agents for Hedge Funds, and some lovely apps. 
+🦊 building reasoning workflows for hedge funds.
+
+dabbling in OSS -> if TextEdit could do lovely slides = ([pad](https://github.com/ollegreen/pad)). 
 
 Sole focus at the moment: `reasoning workflows for financial research`. 
 
