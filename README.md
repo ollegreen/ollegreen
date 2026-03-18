@@ -2,7 +2,7 @@ lead ml engineer for research applications, or as my partner calls me: _`he's li
 
 dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
 
-Sole focus at the moment: `reasoning workflows`. building (surprisingly) the best performing agentic financial research applications for hedge funds according to portfolio managers
+Sole focus at the moment is on reasoning workflows. building (surprisingly) the most preferred agentic financial research applications for hedge funds according to portfolio managers
 
 before this, was at Amazon working on some applied LLMs with agentic achitectures for tools and reasoning, but biggest focus on ETA predictions for transportation networks (geo-graph traversal and quantile transformers for distrubution based forecasting), some demand forecasting, and cost optimisation. good times
 
