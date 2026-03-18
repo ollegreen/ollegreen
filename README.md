@@ -1,20 +1,20 @@
-# agent commander
+lead ml engineer for research applications, or as my partner calls me: _`he's like an agentic commander`_
 
-🦊 building reasoning workflows for hedge funds. (lol funny if you are reading this, which means you read commit messages. nerd hehehehehehe)
+dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
 
-dabbling in OSS -> if TextEdit could do lovely slides = ([pad](https://github.com/ollegreen/pad)). 
+Sole focus at the moment: `reasoning workflows`. building (surprisingly) the best performing agentic financial research applications for hedge funds according to portfolio managers
 
-Sole focus at the moment: `reasoning workflows for financial research`. 
+before this, was at Amazon working on some applied LLMs with agentic achitectures for tools and reasoning, but biggest focus on ETA predictions for transportation networks (geo-graph traversal and quantile transformers for distrubution based forecasting), some demand forecasting, and cost optimisation. good times
 
-before this, was at Amazon working on some applied LLMs with agentic achitectures for tools and reasoning, but biggest focus on ETA predictions for transportation networks (geo-graph traversal and quantile transformers for distrubution based forecasting), some demand forecasting, and cost optimisation. good times.
+started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). led to working with UNESCO today on how to look at AI generated work for their [Memory of the World Programme](https://www.unesco.org/en/memory-world/about)
 
-started a swedish lab (dataalliance.io) to explore LLMs in 2020, where I did my favorite project of all time: published the worlds first book using GPT-3 -> [Bob The Robot](https://www.amazon.co.uk/Bob-Robot-Exploring-Artificial-Intelligence-ebook/dp/B08GL2YWGY). led to working with UNESCO today on how to look at AI generated work for their [Memory of the World Programme](https://www.unesco.org/en/memory-world/about). 
+guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science works in operations. still going and find it really lovely
 
-guest lecturer @ Stockholm University since 2020 — teaching masters students how applied science works in operations. still going and find it really lovely.
+a couple PyCon Sweden talks — walked through GPT-3 research alpha (2020) and one on making time series forecasting less painful (2021)
 
-a couple PyCon Sweden talks — walked through GPT-3 research alpha (2020) and one on making time series forecasting less painful (2021).
+commits from the dark
 
-🦊 Cheers
+Cheers
 
 Olle
 
