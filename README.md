@@ -1,4 +1,4 @@
-lead ml engineer for research applications, or as my partner calls me: _`he's like an agentic commander`_
+lead ml engineer for research applications, or as my partner calls me: _`he's like an agentic commander or something`_
 
 dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
 
