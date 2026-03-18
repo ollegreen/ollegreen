@@ -1,6 +1,6 @@
 # agent commander
 
-🦊 building reasoning workflows for hedge funds.
+🦊 building reasoning workflows for hedge funds. (lol funny if you are reading this, which means you read commit messages. nerd hehehehehehe)
 
 dabbling in OSS -> if TextEdit could do lovely slides = ([pad](https://github.com/ollegreen/pad)). 
 
