@@ -1,4 +1,4 @@
-reducing the pool of finance bois through some proper reasoning workflows _shhh don't tell them_
+reducing the pool of finance bois through some proper [reasoning workflows](https://morphonlabs.com/) _don't snitch mate_
 
 dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
 
