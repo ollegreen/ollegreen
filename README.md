@@ -1,8 +1,4 @@
-reducing the pool of finance bois through some proper [reasoning workflows](https://morphonlabs.com/) _(don't snitch pls)_
-
-dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
-
-surprised to have built the most preferred agentic financial research applications for hedge funds according to some portfolio managers
+reducing the pool of finance bois through [reasoning workflows](https://morphonlabs.com/) _(don't snitch)_ after building the most preferred agentic financial research applications for hedge funds according to some portfolio managers
 
 before this, was at Amazon working on some applied LLMs with agentic achitectures for tools and reasoning, but biggest focus on ETA predictions for transportation networks (geo-graph traversal and quantile transformers for distrubution based forecasting), some demand forecasting, and cost optimisation. good times
 
@@ -12,7 +8,7 @@ guest lecturer @ Stockholm University since 2020 — talking about some tips on 
 
 a couple PyCon Sweden talks — walked through GPT-3 research alpha (2020) and one on making time series forecasting less painful (2021)
 
-commits from the dark
+dabbling in OSS: `TextEdit + markdown + do lovely slides =`**[`pad`](https://github.com/ollegreen/pad)**
 
 Cheers
 
@@ -22,10 +18,8 @@ Olle
 
 <br />
 
-[Morphon Labs LinkedIn]: https://www.morphonlabs.com
-[Morphon Labs LinkedIn]: https://www.linkedin.com/company/morphon-labs
+[Morphon Labs]: https://www.morphonlabs.com
 [linkedin]: https://www.linkedin.com/in/ollegreen/
 [youtube]: https://youtube.com/https://www.youtube.com/user/GreenGh6/videos
-[spotifyplaylist]: https://open.spotify.com/playlist/4EV85hewyLVzYsvJhBQWAA?si=zIR1YGDxRiiL6dgjM6tDhQ
 
 <br />
